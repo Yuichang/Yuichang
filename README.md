@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p><b>My Favorite</b></p>
+
+[![My Skills](https://skillicons.dev/icons?i=linux,html,css,go,c,cpp,py,vscode)](https://skillicons.dev)
 
 <!--
 **Yuichang/Yuichang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
