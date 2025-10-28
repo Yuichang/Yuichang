@@ -12,9 +12,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=default&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuichang&theme=default) 
-
-
 
 <!--
 **Yuichang/Yuichang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
