@@ -1,5 +1,5 @@
 ## Hi there 👋
-<p><h2>🐹 Skills</h2></p>
+<p><h2>Skills🐹</h2></p>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,html,css,go,c,cpp,mysql,js,aws,discord,py,vscode,)](https://skillicons.dev)
 
